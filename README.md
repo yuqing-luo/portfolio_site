@@ -2,6 +2,8 @@
 
 [![Azure Static Web Apps CI/CD](https://github.com/yuqing-luo/portfolio_site/actions/workflows/azure-static-web-apps-black-hill-0695f3910.yml/badge.svg)](https://github.com/yuqing-luo/portfolio_site/actions/workflows/azure-static-web-apps-black-hill-0695f3910.yml) <img src="https://img.shields.io/badge/language-Javascript-26C2F0.svg"> <img src="https://img.shields.io/badge/language-CSS-abcdef.svg"> <img src="https://img.shields.io/badge/language-HTML-orange.svg"> <img src="https://img.shields.io/badge/language-SCSS-yellow.svg"> 
 
+![portfolio screeshot](./img/portfoliosite.png)
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Setup](#setup)
